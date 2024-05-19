@@ -1,4 +1,4 @@
-## URL: knw-cafe-react.surge.sh
+## URL: https://knw-cafe-react.surge.sh
 
 # React + Vite
 
